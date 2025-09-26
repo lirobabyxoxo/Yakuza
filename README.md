@@ -1,6 +1,3 @@
-# Yakuza
-## Primeiro BOT que deu 100% certo 
-
 # 🔥 Yakuza Discord Bot 💀
 
 Bot Discord híbrido com tema dark/demoníaco desenvolvido em JavaScript puro usando discord.js. O bot oferece comandos tanto por prefixo (.) quanto por slash (/) com embeds pretos e detalhes em vermelho neon.
